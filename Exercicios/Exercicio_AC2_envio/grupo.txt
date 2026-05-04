@@ -1,0 +1,11 @@
++----------------------------------------------+
+|                 Integrantes                  |
++------------+---------------------------------+
+| RA         | Nomes                           | 
++------------+---------------------------------+
+| RA: 248275 | João Augusto Pereira Vieira     |
+| RA: 248665 | Anderson Cruzeiro Prado Pereira |
+| RA: 249311 | Gabriel Moreira Nazareno        |
+| RA: 248721 | Vinicius Guilherme Vasques      |
+| RA: 248689 | Victor Rafael Soares Otacílio   |
++------------+---------------------------------+
